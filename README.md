@@ -1,5 +1,5 @@
 # age-pytorch
-Simple ai which returns the users age based on the input (users age)
+An incredibly advanced ai which returns the users age based on the input (users age)
 
 This project is revolutionary, it will save a lot of lives and cure cancer (eventually)
 
